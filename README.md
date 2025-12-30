@@ -5,6 +5,12 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Aditya Giri</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=Data+Scientist;Data+Analyst;Machine+Learning+Engineer;Turning+Data+Into+Decisions;Always+Learning+Always+Building" alt="Typing SVG" />
+  </a>
+</p>
+
 <h3 align="center">Data-Science • Data-Analytics • Machine Learning</h3>
 
 </p>
@@ -50,6 +56,11 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Aditya-1490&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

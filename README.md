@@ -17,7 +17,10 @@
 </p>
 
 - 🌱 I’m currently working on *Data-Science and Data-Analytics Problems.*
-- 📫 How to reach me: [iamhelk.strong@gmail.com](mailto:iamhelk.strong@gmail.com)
+- 📫 How to reach me:  
+  - Personal: [iamhelk.strong@gmail.com](mailto:iamhelk.strong@gmail.com)  
+  - College: [b22mt004@iitj.ac.in](mailto:b22mt004@iitj.ac.in)
+
 - 📄 You can find my resume [here](https://drive.google.com/file/d/17fejZrpyXs3OrEfn8rvvrvzIegKgFNKy/view?usp=sharing).
 - ⚡ Fun fact: Tech enthusiast, avid reader, aspiring innovator.
 

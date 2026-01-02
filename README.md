@@ -22,6 +22,9 @@
   - College: [b22mt004@iitj.ac.in](mailto:b22mt004@iitj.ac.in)
 
 - 📄 You can find my resume [here](https://drive.google.com/file/d/17fejZrpyXs3OrEfn8rvvrvzIegKgFNKy/view?usp=sharing).
+
+- - 🌐 **Portfolio:**  
+  👉 [https://portfolio-omds.vercel.app/](https://portfolio-omds.vercel.app/)
 - ⚡ Fun fact: Tech enthusiast, avid reader, aspiring innovator.
 
 <h3 align="left">Connect with me:</h3>

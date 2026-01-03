@@ -21,7 +21,7 @@
   - Personal: [iamhelk.strong@gmail.com](mailto:iamhelk.strong@gmail.com)  
   - College: [b22mt004@iitj.ac.in](mailto:b22mt004@iitj.ac.in)
 
-- 📄 You can find my resume [here](https://drive.google.com/file/d/1hkynNNN9pAUrN5FLAbD3-04YAZeE0d8r/view).
+- 📄 You can find my resume [here](https://drive.google.com/file/d/1ljI8xtaIyUkdwM-kUYH9WYi_O5HrR9nV/view?usp=sharing).
 
 - - 🌐 **Portfolio:**  
   👉 [https://portfolio-omds.vercel.app/](https://portfolio-omds.vercel.app/)
